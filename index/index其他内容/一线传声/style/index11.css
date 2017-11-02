@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+.nav{ width:100%; background:#e7edd4;}
+.subnav{ width:998px; margin:0 auto;}
+.subnav ul li{ float:left; background:url(../image/pic_9.jpg) no-repeat left center; margin-left:15px; padding-top:1px;}
+.subnav ul li:nth-child(1){ width:34px; margin-left:539px;}
+.subnav ul li:nth-child(2){ width:46px;}
+.subnav ul li:nth-child(3),.subnav ul li:nth-child(4){ width:66px;}
+.subnav ul li:nth-child(5){ width:59px;}
+.subnav ul li:nth-child(6){ width:51px;}
+.subnav ul li:nth-child(7){ width:46px;} 
+.subnav ul li a{ font-family:"微软雅黑"; font-size:12px; color:#5e5756; height:33px; line-height:33px; display:block; padding-left:10px;}
+.subnav ul li a:hover{ color:#F00;}
+.image{ width:100%; height:146px; background:url(../image/pic_10.jpg) no-repeat center center;}
+.content{ width:100%; background:#f9f9f9;}
+.subcontent{ width:1000px; margin:0 auto;}
+.subcontent .top{ width:1000px; padding-top:30px;}
+.subcontent .top p{ width:94px; border:1px solid #cdcdcd; background:url(../image/pic_17.jpg) no-repeat 6px center,#e5e5e5; margin-left:904px; margin-bottom:20px;}
+.subcontent .top p a{ font-family:"微软雅黑"; font-size:14px; color:#2e2e2e; height:22px; line-height:22px; padding-left:29px;}
+.subcontent .top p a:hover{ color:#F00;}
+.subcontent .bottom{ width:1000px; border:1px solid #dfdfdf; background:#ffffff; padding-top:13px;}
+.subcontent .bottom h1{ width:962px; margin-left:19px; font-family:"微软雅黑"; font-size:24px; color:#ff6600; line-height:64px;  border-bottom:1px solid #666666; display:block; text-align:center;}
+.subcontent .bottom h2{ width:150px; margin-left:804px; margin-bottom:20px; font-family:"微软雅黑"; font-size:12px; color:#666666; line-height:50px;}
+.subcontent .bottom img{ float:left; margin-left:59px; margin-top:28px; margin-right:14px;}
+.subcontent .bottom p{ width:881px; margin-left:58px; font-family:"微软雅黑"; font-size:14px; color:#666666; line-height:28px; margin-top:28px;}
+
+.subcontent ul li{ float:left; width:16px; margin:10px 4px 4px 0;}
+
+.footer{ width:100%}
+.footer .bottom{ width:1000px; margin:0 auto; padding-top:32px;}
+.footer .bottom p{ text-align:center; margin-bottom:12px;}
+.footer .bottom p:first-child a{display:inline-black; text-align:center; padding-left:15px; padding-right:15px; border-right:1px solid #ccc;font-size:14px; font-family:"微软雅黑"; color:#8d908e;}
+.footer .bottom p:first-child a:last-child{ border:0; padding-left:34px; background:url(../image/img_19.jpg) no-repeat 15px;}
+.footer .bottom .two{ margin-bottom:24px;font-size:14px; color:#8d908e; font-family:"微软雅黑";}
+.footer .bottom p a:hover{ color:red;}

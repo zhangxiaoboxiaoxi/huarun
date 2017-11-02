@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+.image{width:100%px; height:212px; margin:0 auto; background:url(images/pic_02.jpg) no-repeat center center;}
+/*content*/
+.max_content{width:100%; background:#f7f5f4; padding-bottom:56px; padding-top:44px;}
+.min_content{width:996px; margin:0 auto;}
+.min_content .left,.min_content .right{float:left;}
+.min_content h2{font-size:26px; color:#f8b633; line-height:62px; font-family:"微软雅黑"; border-bottom:1px solid #dbd4cd;}
+/*left*/
+.min_content .left{width:168px; margin-right:76px;}
+.min_content .left>ul li{line-height:35px; background:url(images/pic_06.jpg) no-repeat 15px center; border-bottom:1px solid #dbd4cd;}
+.min_content .left>ul li:hover{background:#f99d32;}
+.min_content .left>ul li a{display:block; width:142px; height:35px; font-size:12px; color:#000000; font-family:"微软雅黑"; line-height:35px; padding-left:26px;}
+.min_content .left>ul li:hover a{color:#FFF; background:url(images/pic_01_03.jpg) no-repeat 15px center;}
+.min_content .left>ul li:nth-child(4){background:#f99d32;}
+.min_content .left>ul li:nth-child(4) a{color:#ffffff; background:url(images/pic_01_03.jpg) no-repeat 15px center;}
+.min_content .left>ul li:nth-child(5),.min_content .left>ul li:nth-child(6),.min_content .left>ul li:nth-child(7){background:url(images/pic_12.jpg) no-repeat 15px center;}
+.min_content .left>ul li:nth-child(5):hover,.min_content .left>ul li:nth-child(6):hover,.min_content .left>ul li:nth-child(7):hover{background:#f99d32;}
+.min_content .left>ul li:nth-child(5) a:hover,.min_content .left>ul li:nth-child(6) a:hover,.min_content .left>ul li:nth-child(7) a:hover{background:url(images/pic_15.jpg) no-repeat 15px center;}
+/*right*/
+.min_content .right{width:752px; padding-bottom:70px;}
+.min_content .right .top{border-bottom:1px solid #dbd4cd; margin-bottom:4px;}
+.min_content .right .top h2{border-bottom:none;}
+.min_content .right .top h2,.min_content .right .top p{float:left;}
+.min_content .right .top p{display:inline-block; float:right; font-size:12px; color:#333333; font-family:"微软雅黑"; line-height:50px; margin-top:12px;}
+/*bottom*/
+.bottom p{font-size:14px; color:#575656; font-family:"微软雅黑"; line-height:24px; margin-top:26px;}
+span{color:#575656;}

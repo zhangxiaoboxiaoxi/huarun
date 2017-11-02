@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+.image{ width:100%; height:212px; background:url(../images/pic_10.jpg)  no-repeat center center;}
+.max_investors{ width:100%; background:#f7f5f4;}
+.min_investors{ width:1000px; margin:0 auto;}
+.min_investors .left,.min_investors .right{ float:left;}
+/*left*/
+.min_investors .left{ width:170px; margin-right:75px;}
+.min_investors .left h2{ width:170px; margin-top:46px; font-family:"微软雅黑"; font-size:28px; color:#f99d33; height:61px; line-height:61px;}
+.min_investors .left ul .one{ width:170px; border-top:1px solid #dbd4cd; background:url(../images/pic_1.jpg) no-repeat 15px 16px;}
+.min_investors .left ul .one:hover{background:#f99d32;}
+.min_investors .left ul .one:hover a{color:#FFF; background:url(../images/pic_4.jpg) no-repeat 15px center;}
+.min_investors .left ul .one a{ font-family:"微软雅黑"; font-size:12px; color:#000000; height:35px; line-height:35px; padding-left:27px; display:block;}
+.min_investors .left ul .two{ width:170px; border-top:1px solid #dbd4cd; background:url(../images/pic_2.jpg) no-repeat 22px center;}
+.min_investors .left ul .two a{ font-family:"微软雅黑"; font-size:12px; color:#000000; height:35px; line-height:35px; padding-left:30px; display:block;}
+.min_investors .left ul .two:hover{background:#f99d32;}
+.min_investors .left ul .two:hover a{color:#FFF; background:url(../images/pic_3.jpg) no-repeat 22px center;}
+/*right*/
+.min_investors .right{ width:755px;}
+/*top*/
+.min_investors .right .top{ width:755px; border-bottom:1px solid #dbd4cd; padding-bottom:1px; position:relative; margin-top:46px;}
+.min_investors .right .top h2{ width:240px; margin-left:1px; font-family:"微软雅黑"; font-size:28px; color:#f8b633; height:61px; line-height:61px;}
+.min_investors .right .top p{ width:270px; font-family:"微软雅黑"; font-size:12px; color:#333333; position:absolute; top:30px; right:1px;}
+/*bottom*/
+.min_investors .right .bottom{ width:755px;}
+.min_investors .right .bottom ul li{ float:left; width:239px; margin-top:25px; margin-right:19px;}
+.min_investors .right .bottom ul li img{ border:1px solid #f99d32; border-bottom:0;}
+.min_investors .right .bottom ul li img{display:block; height:147px;}
+.min_investors .right .bottom ul li h2{ width:239px; background:#f99d32; padding-top:2px;}
+.min_investors .right .bottom ul li h2 a{ font-family:"微软雅黑"; font-size:18px; color:#ffffff; height:53px; line-height:53px; margin-left:13px;} 
+.min_investors .right .bottom ul li h2 span{ font-size:10px; margin-left:77px;}
+

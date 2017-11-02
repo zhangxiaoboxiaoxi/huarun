@@ -1,0 +1,57 @@
+.header{width:1196px; margin:0 auto;}
+.header .left{margin-top:14px; float:left;}
+.header .right{width:538px; float:right;}
+.header .right ul li{ width:115px; height:100px;line-height: 100px; float:left; text-align:center;}
+.header .right ul li a{font-size:14px; color:#333333; font-family:simHei; padding-bottom:37px; }
+.header .right ul li a:hover{color:#f5a21d; border-bottom:1px solid #f5a21d; border-bottom:5px solid #f5a21d;}
+.header .right ul li:nth-child(1){width:83px;}
+.header .right ul li:nth-child(5){width:92px;}
+.wrap_banner{width:100%; height:400px; background:black;}
+.banner{width:1260px; margin:0 auto; height:400px;}
+.technology{width:1196px; margin:0 auto;}
+.technology .title h2{width:100px;float:left; margin-left:10px;height:70px; background:#ffffff;line-height:70px; font-size:22px; color:#333333; font-family:Microsoft YaHei;}
+.technology .title p{width:100px; float:right; height:40px; margin-top:12px; margin-right:16px; text-align:center; line-height:40px; border:1px solid #e8e8e8; border-radius: 4px;}
+.technology .title p a:hover{color:red;}
+.technology .title p a{font-size:12px; color:#667aa3; font-family:Microsoft YaHei;}
+.technology .bottom .left{width:502px; float:left; margin-bottom:31px; margin-right:19px; margin-right:19px;}
+.technology .bottom .right{width:661px; padding-right:6px; float:right;}
+.technology .bottom .right h3{height:31px; margin-bottom:14px; line-height:31px;
+    font-size: 20px; color:#333333; font-family:Microsoft YaHei; width:660px;}
+.technology .bottom .right p{font-size:12px; color:#333333; font-family:Microsoft YaHei; line-height:25px;}
+.technology .bottom .right p a{color:#f8af1d;}
+.technology .bottom .right p a:hover{color:red;}
+.wrap_products{width:100%; background:#f2f2f2; height:336px;}
+.products{width:1196px; margin:0 auto;}
+.products .bottom ul li{width:280px; float:left; margin-right:25px;}
+.products .bottom ul li:hover{box-shadow:2px 2px 4px 4px #cecaca}
+.products .bottom ul li:last-child{margin:0;}
+.products .bottom ul li p{height:52px; line-height:52px; color:#333333; padding-left:10px; background:#ffffff;}
+.products .title h2{width:100px;float:left; margin-left:10px;height:82px; line-height:82px; font-size:22px; color:#333333; font-family:Microsoft YaHei;}
+.products .title p{width:100px; background:#ffffff; float:right; height:40px; margin-top:21px; margin-right:16px; text-align:center; line-height:40px; border:1px solid #e8e8e8; border-radius: 4px;}
+.products .title p a{font-size:12px; color:#667aa3; font-family:Microsoft YaHei;}
+.products .title p a:hover{color:red;}
+.products .title p a:hover{color:red;}
+.server{width:1196px; margin:0 auto;}
+.server .title h2{width:100px;float:left; margin-left:10px;height:82px; line-height:82px; font-size:22px; color:#333333; font-family:Microsoft YaHei;}
+.server .title p{width:100px; background:#ffffff; float:right; height:40px; margin-top:21px; margin-right:16px; text-align:center; line-height:40px; border:1px solid #e8e8e8; border-radius: 4px;}
+.server .title p a{font-size:12px; color:#667aa3; font-family:Microsoft YaHei;}
+.server .bottom ul li{width:280px; float:left; margin-right:25px; margin-bottom:45px;}
+.server .bottom ul li:hover{box-shadow:2px 2px 4px 4px #cecaca}
+.server .title p a:hover{color:red;}
+.server .bottom ul li:last-child{margin:0;}
+.server .bottom ul li h3{padding-left:10px;font-size:14px; color:#333333; font-family:simHei; height:38px; line-height: 38px; margin-top:5px;}
+.server .bottom ul li p{font-size:12px; color:#333333; font-family:Microsoft YaHei; line-height:23px; padding-left:10px;}
+.server .bottom ul li a{color:#f5a253; font-size:12px; font-famly:Microsoft YaHei; margin-left:10px;}
+.server .bottom ul li a:hover{color:red;}
+.wrap_partner{width:100%; height:440px; background:#f2f2f2;}
+.partner{width:1196px; margin:0 auto;}
+.partner .title h2{width:100px;float:left; margin-left:10px;height:82px; line-height:82px; font-size:22px; color:#333333; font-family:Microsoft YaHei;}
+.partner .title p{width:100px; background:#ffffff; float:right; height:40px; margin-top:21px; margin-right:16px; text-align:center; line-height:40px; border:1px solid #e8e8e8; border-radius: 4px;}
+.partner .title p a{font-size:12px; color:#667aa3; font-family:Microsoft YaHei;}
+.partner .title p a:hover{color:red;}
+.partner ul li{width:261px; float:left; margin-right:43px; position:relative;}
+.partner ul li:last-child{margin:0;}
+.partner ul li p{position:absolute; top:199px; left:33px; font-size:18px; color:#ffffff; font-family:simHei;}
+.wrap_footer{width:100%; height:50px; background:#2e2e2e;}
+.footer{width:896px; margin:0 auto; padding-left:300px; height:50px; line-height:50px;}
+.footer p{margin-right:24px; color:#ffffff; font-size:14px; font-family:Microsoft YaHei; float:left;}

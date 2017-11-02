@@ -1,0 +1,50 @@
+1@charset "utf-8";
+/* CSS Document */
+.main{ width:100%; background:#f7f5f4;}
+.main .top{ width:1001px; padding-top:19px; margin:0 auto; border-bottom:1px solid #ccc; padding-bottom:13px;}
+.main .top .left{ width:640px; float:left;}
+/*left开始*/
+.main .top .left>h2{ height:36px; line-height:36px; font-size:18px; font-family:"微软雅黑"; color:#333333; border-bottom:1px solid #e5ddd9;}
+
+.main .top .left> .ten img{ display:block; border:0; padding:12px 29px 13px 0; float:left;}
+.main .top .left>.one{ width:450px; font-size:12px; font-family:"微软雅黑"; color:#666666; line-height:22px; padding-bottom:7px; float:left; background:url(../images/img_16.jpg) no-repeat 315px 50px;}
+.main .top .left h3{ height:37px; line-height:37px; width:450px; padding-top:11px; float:left;}
+.main .top .left h3 a{font-size:14px; font-family:"微软雅黑"; color:#000;}
+.main .top .left h3 a:hover{ color:red;}
+.main .top .left .two{ float:left; padding-bottom:24px;}
+.main .top .left .two li{ width:308px; float:left; padding-left:12px; background:url(../images/img_25.jpg) no-repeat left center;}
+.main .top .left .two li:nth-child(5){ padding-right:34px; width:274px;}
+.main .top .left .two li a{ font-size:12px; font-family:"微软雅黑"; color:#333333;}
+.main .top .left .two li a:hover{ color:red; }
+.main .top .left .three{ height:34px; line-height:34px; padding-left:35px; border:1px solid #ccc; background:url(../images/img_29.jpg) no-repeat 8px center , url(../images/img_16.jpg) no-repeat 607px center; float:left; width:605px;}
+.main .top .left .three a:hover{color:red;}
+.main .top .left>.four{ float:left; width:288px; height:39px; line-height:39px;font-size:18px; font-family:"微软雅黑"; color:#333333; margin-right:60px; background:url(../images/img_26.jpg) no-repeat 275px 19px;}
+.main .top .left .four a:hover{ color:red;}
+.main .top .left .five{ float:left; padding-top:20px;}
+.main .top .left .five>li{ margin-bottom:14px; width:342px; padding-left:12px; background:url(../images/img_25.jpg) no-repeat left center; height:12px; line-height:12px;} 
+.main .top .left .five>li a{  font-size:12px; font-family:"微软雅黑"; color:#333333;}
+.main .top .left .five>li a:hover{ color:red;}
+.main .top .left .six{ float:left; width:289px; height:39px; line-height:39px;font-size:18px; font-family:"微软雅黑"; color:#333333; margin-right:2px;background:url(../images/img_26.jpg) no-repeat 275px 19px;}
+.main .top .left .six a:hover{ color:red;}
+.main .top .left .seven{ float:left; padding-top:20px;}
+.main .top .left .seven>li{ margin-bottom:14px; width:260px; padding-left:20px; background:url(../images/img_25.jpg) no-repeat left center; height:12px; line-height:12px;}
+.main .top .left .seven>li a{ font-size:12px; font-family:"微软雅黑"; color:#333333;}
+.main .top .left .seven>li a:hover{ color:red; }
+
+.main .top .right{ width:271px; float:left; padding-left:89px;}
+.main .top .right img{ margin-bottom:9px;}
+.main .top .right>div{ float:left; border:1px solid #ccc; width:271px;}
+.main .top .right>div img{ float:left; border-right:1px solid #ccc; margin-right:8px; margin-bottom:0;}
+.main .top .right>div .one{ display:block; height:27px; line-height:27px; font-size:16px; color:#999999; font-family:"微软雅黑";}
+.main .top .right>div .two{ padding:15px 0 11px 0; font-size:16px; color:#999999; font-family:"微软雅黑";}
+.main .top .right>div .three{ padding-bottom:6px; font-size:16px; color:#999999; font-family:"微软雅黑";  float:left;}
+.main .top .right>div .four{ width:90px; height:21px; line-height:21px; background:#fbefeb; border-radius:2px; float:left; border:1px solid #f4dcd2;}
+.main .top .right>div .four a{ font-size:12px; color:#000; font-family:"微软雅黑";}
+.main .top .right>div .four a:hover{ color:red;}
+.main .top .right>div .four span{ color:red;}
+.main .top .right>h2{ height:36px; line-height:36px; font-size:18px; font-family:"宋体"; color:#333333; border-bottom:1px solid #e5ddd9; width:270px; float:left; border-bottom:1px solid #ccc; margin-bottom:15px;}
+
+
+
+
+

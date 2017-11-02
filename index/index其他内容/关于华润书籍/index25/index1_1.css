@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+.main{ width:100%;}
+.submain{ width:1000px; margin:0 auto;}
+.submain .left,.submain .right{ float:left;}
+.submain .left{ width:337px; height:980px; border-right:1px solid #d1d1d1;}
+.left p{ width:295px; margin-left:20px; font-family:"微软雅黑"; font-size:14px; color:#333333; line-height:26px; margin-top:26px;}
+
+
+.submain .right{ width:623px; margin-left:39px;}
+.submain .right img{ margin-left:403px; margin-top:40px;}
+.submain .right h1{ width:623px; margin-top:1px; border-bottom:1px solid #cccccc;}
+.submain .right h1 a{ font-family:"微软雅黑"; font-size:14px; color:#333333; height:44px; line-height:44px;}
+.submain .right ul li{ width:623px; border-bottom:1px solid #dfdfdf;}
+.submain .right ul li h2{ margin-top:2px;}
+.submain .right ul li h2 a{ font-family:"微软雅黑"; font-size:18px; color:#555555; height:44px; line-height:44px; font-weight:bold;}
+.submain .right ul li .p1{ font-family:"微软雅黑"; font-size:12px; color:#555555; line-height:25px;}
+.submain .right ul li .p2{ margin-bottom:5px; width:52px; margin-left:570px;}
+.submain .right ul li .p2 a{ font-family:"微软雅黑"; font-size:12px; color:#000000; height:40px; line-height:44px;}
+.submain .right ul li .p2 a:hover{ color:#F00;}
+.submain .right>p{ width:623px; border-bottom:1px solid #cecfd0; margin-bottom:11px;}
+.submain .right>p a{ margin-right:10px; margin-top:7px; margin-bottom:7px; font-family:"微软雅黑"; font-size:16px; color:#333333; height:33px; line-height:33px; display:inline-block; text-align:center; border:1px solid #d5d5d5; border-radius:5px;}
+.foot{ width:100%; background:url(img/img_3.jpg) repeat-x;}
+.subfoot{ width:1000px; height:65px; margin:0 auto;}
+.subfoot p{ width:450px; margin-left:277px; font-family:"微软雅黑"; font-size:12px; color:#000000; line-height:60px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

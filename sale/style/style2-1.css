@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+.header{width:100%; height:213px; background:url(../images/pic__02.jpg) no-repeat center center;}
+.sale-b{background:#f7f5f4;}
+.sale{width:1000px; margin:0 auto; padding-top:45px;}
+.sale .list{width:170px; margin-right:75px; float:left;}
+.sale .list h1{height:62px; line-height:62px; font-size:26px; color:#f99d33; border-bottom:1px solid #dbd4cd;}
+.sale .list a{display:block; width:142px; padding-left:28px; height:35px; line-height:35px; font-size:14px; color:#000000; font-family:Microsoft YaHei; background:url(../images/img_03.jpg) no-repeat 15px center; border-bottom:1px solid #dbd4cd;}
+.sale .list .sub{width:140px; padding-left:30px; font-size:12px; background:url(../images/img_11.jpg) no-repeat 22px center;}
+.sale .list a:nth-child(4){background:url(../images/img_14.jpg) no-repeat 22px center,#f99d33; color:#ffffff;}
+.sale .list a:hover{background:url(../images/img_04.jpg) no-repeat 15px center,#f99d33; color:#fff;}
+.sale .list .sub:hover{background:url(../images/img_14.jpg) no-repeat 22px center,#f99d33;}
+.sale .content{width:755px; float:left; margin-bottom:70px;}
+.sale .content .top{width:755px; border-bottom:1px solid #dbd4cd; margin-bottom:25px;}
+.sale .content .top h1{width:200px; height:62px; line-height:62px; font-size:26px; font-family:simHei; color:#f99d33; float:left;}
+.sale .content .top p{padding-top:31px; float:right; font-family:"微软雅黑"; font-size:12px; color:#333333;}
+.sale .content .bottom{width:755px; border-bottom:1px solid #dbd4cd; font-family:Microsoft YaHei;  padding-bottom:25px;}
+.sale .content .bottom h2{width:735px; padding-left:20px; padding-top:17px; height:42px; line-height:42px; font-size:16px; color:#f99d33; font-family:Microsoft YaHei; border-bottom:1px dashed #dbd4cd; background:url(../images/img_07.jpg) no-repeat 1px 30px;}
+.sale .content .bottom p{padding-top:15px; line-height:25px; font-size:14px; font-family:Microsoft YaHei; color:#575656}
+.sale .content .bottom ul{padding-bottom:15px;}
+.sale .content .bottom ul li{height:25px; line-height:25px; font-size:14px; font-family:Microsoft YaHei; color:#575656;}
+.sale .content .bottom .one{font-weight:bold;}
+.sale .content .bottom ul li a{font-size:14px; color:#575656;font-family:Microsoft YaHei; }
+.sale .content .bottom h3{height:43px; line-height:43px; padding-top:17px; font-size:16px; font-family:Microsoft YaHei; color:#000;}
+.sale .content .bottom .two img{margin-bottom:7px; margin-right:5px; float:left;}
+.sale .content .bottom .three img{float:left; margin-bottom:15px; margin-right:5px;}
+.sale .content .bottom .three img:nth-child(6),nth-child(7){margin-bottom:17px; margin-right:4px;}
+.sale .content .bottom ul li a:hover{color:red;}
